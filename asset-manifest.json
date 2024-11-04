@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/raviportfolio/static/css/main.b536a952.css",
+    "main.js": "/raviportfolio/static/js/main.2b2f9306.js",
+    "static/js/453.5071e06e.chunk.js": "/raviportfolio/static/js/453.5071e06e.chunk.js",
+    "index.html": "/raviportfolio/index.html",
+    "main.b536a952.css.map": "/raviportfolio/static/css/main.b536a952.css.map",
+    "main.2b2f9306.js.map": "/raviportfolio/static/js/main.2b2f9306.js.map",
+    "453.5071e06e.chunk.js.map": "/raviportfolio/static/js/453.5071e06e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b536a952.css",
+    "static/js/main.2b2f9306.js"
+  ]
+}
